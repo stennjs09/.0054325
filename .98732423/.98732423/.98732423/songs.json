@@ -1,0 +1,506 @@
+{
+    "version": "2025.08.26",
+    "lastUpdated": "2025-08-26T00:00:00Z",
+    "songs": [
+        {
+            "id": "1",
+            "number": 168,
+            "title": "Velomy indray izahay",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Midera Anao izahay,\nRy Andriamanitray,\nNoho Jesosy maty ho anay,\nNakarina indray.",
+                "chorus": "Haleloia voninahitra,\nHaleloia Amena,\nHaleloia voninahitra,\nVelomy indray izahay.",
+                "verse_2": "Midera Anao zahay,\nRy Andriamanitray,\nIlay Fanahin'ny fahazavana,\nMandroaka ny haizina.",
+                "verse_3": "Voninahitra, dera,\nHo an'ilay Zanak'ondry\nVoavono ho fanadiovana antsika.",
+                "verse_4": "Velomy indray izahay,\nFenoy ny fitiavanao,\nNy afonao handrehitra\nNy fanahinay.",
+                "ending": ":;:Velomy, fohazo,\nAvaozy, atsangano,\nTompo ô, kasiho indray izahay;\nHamerina amin'ny fitiavanao,\nAmin'ny afonao avy any ambony,\nVelomy indray:;:"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "2",
+            "number": 169,
+            "title": "Fa mbola hitsangana aho",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Indro ary,\nInty ny tanako fantsiho,\nKa ihomehezo, sy arabio,\nlazao indray,\nFa olon-kafa Aho,\nFa ireo ratrako ireo tsy mety ho voafafa.",
+                "chorus": "Fa mbola hitsangana Aho,\nTsy misy hery mahasakana Ahy,\nFa mbola hitsangana Aho,\nTsy hahatana Ahy ny fasana.",
+                "verse_2": "Indro ary,\nInty ny Anarako amavoy,\nNy fitiavanao anao dia mbola hitohy,\nIndro aho,\nInty Aho aleveno,\nFa tsy ho ela ho afaka Aho.",
+                "verse_3": "Lazao indray fa maty sy vita aho,\nFa ho hitanao tsy marina izany,\nIndro Aho, inty Aho afeno,\nFa izao tontolo izao mbola hahita indray:",
+                "ending_chorus": "Fa mbola hiverina Aho,\nTsy misy hery mahatazona Ahy,\nEny mbola hiverina Aho,\nHaka ireo Ahy Aho."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "3",
+            "number": 170,
+            "title": "Tariho aho ho eo kalvary",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Tompo Mpanjakan' ny fiainako,\nSatroham-boninahitra,\nTsy hadino koa ilay satro-tsilo,\nTariho aho ho eo Kalvary",
+                "chorus": "Raha ho adinoko Getsemane,\nSy ireo fijalianao mba ho ahy,\nRaha ho hadinoko ny fitiavanao ahy\nTariho aho ho eo Kalvary.",
+                "verse_2": "Ireo dian-kapoka Taminao,\nRanomasom-pitiavanao,\nAnjely no niambina Anao,\nRaha nandry tao am-pasana.",
+                "verse_3": "Aoka ho toy ireo mpianatrao,\nRaha mbola maizina,\nAnehoy ilay fasana foana,\nTariho aho ho eo Kalvary.",
+                "verse_4": "Entiko ny hazofijaliako,\nAoka ho vonona aho Tompo ô!\nHisotro ny kapoaka fijaliako,\nToy ireo nentinao ho ahy."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "4",
+            "number": 171,
+            "title": "Lehibe ny Tompo",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "chorus": "Lehibe ny Tompo,\nTsy manam-paharoa,\nLehibe, lehibe Izy,\nTonga aho hiankohoka,\nHidera ny Anarany,\nSatria lehibe Izy.",
+                "verse_1": "Ray Zanaka sy Fanahy,\nIlay Telozairay,\nFiandohana, fiafarana,\nMpanjaka mandrakizay.",
+                "verse_2": "Hanandratra ny Anao aho,\nHankalaza isan'andro,\nHanambarana ny asanao,\nHitory ny voninahitrao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "5",
+            "number": 172,
+            "title": "Manovoza hery aloha",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Izay minoa Ahy,\nDia ny asa ataoko no hataony koa,\nSatria Izao hankany amin' ny Ray.",
+                "chorus": "Manovoza hery aloha,\nAmpitombohy ny herinao,\nNy hery rehetra an' i Tsitoha,\nKoa takio fa hanafianany anao.",
+                "verse_2": "Tsy maintsy handao anareo aho,\nMahasoa anareo izany,\nNefa hangataka amin' ny Ray aho,\nNy Mpampionona ho anareo.",
+                "verse_3": "Tahaka ny nanirahan' ny Ray Ahy,\nNo hanirahako anareo koa,\nTsy hamela anareo ho kamboty Aho,\nFa ho aminareo Aho.",
+                "verse_4": "Ataovy tsara ny asa,\nMivonòna daholo,\nRehefa avy Aho,\nDia hamaly soa anareo."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "6",
+            "number": 173,
+            "title": "Mazava ny lalako",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "chorus": "Mazava ny lalàko,\nMahiratra ny masoko,\nRaha omenao ilay ody maso aho,\nMiangavy Tompo ô fohazy aho.",
+                "verse_1": "Maraim-baovao ny fiainako,\nRaha eo anilanao,\nMiposaka toy ny masoandro,\nNy rivotra toa mitsoka malefaka,\nTompo ô, omeo ahy ny Fanahinao.",
+                "verse_2": "Ny siokan' ireo vorona,\nMikalo sy mandihy,\nMamelana ireo voninkazo,\nNy molotro no atokako hidera Anao,\nTompo ô, omeo ahy ny Fanahinao.",
+                "verse_3": "Ny hoavinao, ny momba anao,\nEfa voalamina,\nAza manahy ny ampitso ianao,\nMihazona ny tenifikasany Izy,\nMahatoky hatramin' ny farany."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "7",
+            "number": 174,
+            "title": "Tsorano iray",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Misaotra Anao Tompo ô,\nAnkehitriny izao,\nRaha afaka nanompo,\nNoho ny fitiavanao anay,\nHisaraka eto izahay,\nFa mbola lavitra ny dia,\nFa rehefa any an-koatra dia ho doria.",
+                "chorus": "Jesosy anie no homba anao,\nKa aza manahy fa matokia,\nIzy tsy hahafoy na handao,\nAnao mandrakizay doria,\nHitahiry anao anie ny Tompo,\nKa manantena mbola hihaona.\nTso-drano iray no hatolotro:\n\"TAHIN' NY TOMPO E,\nDIA MANDRAMPIHAONA\"",
+                "verse_2": "Mirary anao mba ho salama\nHo ambinina amin' izay atao,\nKa tsy ho potraka an-dalana,\nNy tanany no hitantana anao\nIzy no handidy ny anjeliny\nHandeha eo alohanao\nNy fahavalo ho aeliny ka hifaly ianao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "8",
+            "number": 175,
+            "title": "Zanako sy asan' ny tanako",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Tsarovy fa zanako ianao,\nMiondri-dava, ory sy malahelo\nMitebiteby ianao, toy ny nafoy,\nAza manahy f'Izao hiahy anao.",
+                "chorus": "Hitako anie ianao izay mitomany io\nTonga aho hitondra fanantenana ho anao\nTsy ho avelako ho afa-baraka ny zanako\nIlay asan' ny tanako, f' aleo ho adidiko",
+                "verse_2": "Rainao aho mahalala hevitra Aho\nTsy ho azonanao an-tsaina hampandresy anao\nMiarena zanako, tsy resy ianao,\nNy hoavinao efa eto an-tanako.",
+                "verse_3": "Io fahorianao io, izay diavinao\nEfa nolanjaiko nisolo voina anao,\nReo satroboninahitry ny fiainana,\nHo lovanao raha mahatoky ianao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "9",
+            "number": 176,
+            "title": "Foiko ho Anao",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Izaho Tompo ô,\nTia Anao, tia Anao,\nIzaho Tompo ô,\nTia Anao, tena tia Anao,\nOmeko Anao ny foko,\nNy fiainako afoiko,\nHanompo Anao ka hanjakao,\nNy heriko rehetra, ireo asa sy Talenta.\nFoiko Anao ka ampiasao.",
+                "chorus": "Foiko ho Anao,\nHo Anao, Ilay nitia sy namonjy ahy,\nNy ainao natolotrao tam-pitiavana ho anay,\nNa tsy mendrika aza ity mpanomponao,\nDia notiavinao.",
+                "verse_2": "Izahay Tompo ô,\nTia Anao, tia Anao,\nIzahay Tompo ô,\nTia Anao, tena tia Anao\nHahafoy ireo fahotana,\nNy ditra sy hadalana\nHanoka-tena mba ho hampiasainao\nhijoro, hiasa, hitory,\nHifoha fa tsy hatory,\nKa hanao izay mahafaly Anao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "10",
+            "number": 177,
+            "title": "Teraka Jesosy",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "chorus": "Teraka Jesosy, hamaha ny olana,\nTeraka Jesosy, hanafaka fahotana,\nTeraka Jesosy, ny fatorana hotosana,\nHaleloia, haleloia!\nHosana, Hosana!",
+                "verse_1": "Toy ireo anjely marobe tamin' ireo mpiandry ondry\nAza matahotra ianareo,\nIndro teny soa mahafaly,\nFa Mpamonjy no teraka anio,\nHo an' ny olon-drehetra,\nMiravoa, mifalia,\nFa tonga Ilay Mesia.",
+                "verse_2": "Ireo Magy avy any Antsianana\nNotarihin' ny Kintana\nTonga mba hiankohoka\namin' ilay teraka ho Mpanjaka\nNanokatra ny tahiry\nSy nanolotra fanomezana\nVolamena, miora ary zava-manitra.",
+                "verse_3": "Anio no andro izay natokana\nHanaovana fankalazana,\nMa ho fahatsiarovana,\nNy nahatongavan'i Jesosy zaza,\nAndeha hanandratra fankasitrahan' ilay Mpanaovotra,\nMiderà, mihoha ho an' ilay Mesia."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "11",
+            "number": 178,
+            "title": "Mi hobia fa amintsika Andriamanitra",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Andro firavoravoana,\nAndro natao hifaliana,\nAndrom-pahasaoavana,\nAndro fitahiana,\nFa KRISTY JESOSY TOMPO,\nAndriamanitra tonga nofo,\nMpanjakan' ny mpanjaka,\nMpamonjy no nateraka",
+                "chorus": "Koa asandrato ny feo\nHanakoako ho re\nHiram-pifaliana\nHira-pihobiana\nFa Mpanjaka Lehibe,\nJESOSY IMANOELA\nMihobia f' amintsika Andriamanitra",
+                "verse_2": "Voninahitra, saotra,\nAny amin'ny Avo Indrindra,\nHo an' Andriamanitra,\nHosana, Haleloia !\nAry fiadanana,\nEty ambonin' ny tany\nHo an' ny olona ankasitrahana",
+                "verse_3": "Aoka ny olon-drehetra,\nHitsaoka sy hankalaza,\n'Lay Zanak' Andriamanitra,\nTompo Mpanjaka,\nAry ny lela rehetra,\nHanaiky ny Anarany,\nAnara-mahagaga,\nJESOSY Mpanavotra."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "12",
+            "number": 179,
+            "title": "Sitrano ny taninay",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Misaotra Anao izahay ry Ray Tsitoha\nFa nomenanao ity nosy ity,\nTany tena kanto, feno zava-tsoa,\nMampihainky ny rehetra ny hatsarany,\nTsy hadinonao i Madagasikara,\nNa dia nosy aty am-paran' ny tany,\nFa nirahinao ny filazantsara\nMalagasy handova lanitra.",
+                "chorus": "Ray Masina ô !\nSitrano ny taninay\nFanahy Masina ô !\nFohazy ny Malagasy\nJesosy ô !\nIanao irery no aoka hanjaka\nGasikara ho an' i Kristy\nKristy ho an' i Gasikara",
+                "verse_2": "Nolazaina fa tany manan-karena,\nFahaleovan-tena, tsy voazanaka,\nNefa andevom-pahotana, sy voageja,\nMahantra miaina anaty aizina,\nJesosy ô ! Ilay Mpanavotra,\nPoteo ny hafetsena sy fahalovana\nAoka hanjaka ao ny fahamarinana,\nSy ho tany handry fahalemana.",
+                "verse_3": "Jesosy ô ! mivavaka izahay,\nFoano handamoako ny hevitr' i Satana\nTe hanapaka an' i Madagasikara,\nFa Ianao no Tompon' ny hery sy fahefana\nHo tonga anie ny fifoaazam-panahy,\nNy finoana manaiky Anao no hanjaka,\nHieky ny filazantsara ka ho maro\nNy Malagasy ho any an-danitra.",
+                "ending": "Raha ny oloko\nIzay nantsoina amin' ny Anarako\nHo avy hanetry tena,\nKa hivavaka sy hitady ny tavako\nHiala amin' ny ratsy fanaony,\nDia hihaino any an-danitra Aho,\nKa hamela ny helony,\nAry hahasitrana ny taniny (in-2)"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "13",
+            "number": 180,
+            "title": "Ilay didy vaovao",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Didy vaovao no omeko anareo,\nDia ny mba hifankatiavanareo,\n'Zany no hahafantaran' ny olon-drehetra,\nFa hoe tena mpianatro ianareo,\nAoka ho tsaroana ombieny ombieny,\nIsika no vavolombelon' i Kristy,\nIsika no fanasin' ny tany,\nIsika ihany koa fahazavana,\nFitaratra sady modely ka aza fafana",
+                "chorus": "Ka ataovy an-tsaina hatrany hatrany,\nAo am-po lalindava\nNy fifankatiavana re !\nAza avela ho rava\nRaha toa ka tsy maintsy misy ny fahatezerana\nAza avela ho tratry\nMasoandro milentika",
+                "verse_2": "Ny fialonana aoka ialana,\nF' anisan' ny miteraka fankahalana\nTsy mahazaka ny fahombiazany ny hafa,\nLotika ny fo, mihiratsy ny saina,\nHoe Saoly nahafaty arivoarivo,\nDavida nahafaty analina\nFa izay misy dia voatendrin' ny Tompo.\nKoa sakano ny fo tsy haloto,\nDia aoka hivavaka,\nHiandry ny anjaraanao",
+                "verse_3": "Raha sitrakao 'ndeha hatambatra ny hery\nNa inona mety ho fomba fijery,\nRavaina ny fitsikokotokoana,\nFa iray ny Tompo, sy ny fanompoana\n'Ndeha samy haka lesona,\nHanitsy izay simba\nTsy misy hiavonana, f' hanetry tena\nNy ho tonga any am-paradisa,\nHampandroso ny fiangonantsika,\nNo ataontsika ho tanjona iombonana."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "14",
+            "number": 181,
+            "title": "Aoka ho toy ny zaza",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "1": "Raha tsy miova hoy toy zaza ianareo\nTsy hiditra ny fanjakan' ny lanitra\nRaha tsy manana fo madio ianareo\nDia tsy hahita an' Andriamanitra\nRaha mankahala rahalahy ianareo\nDia voalaza fa mpamono olona\nRaha tsy mpankatoa ianareo\nMitandrema, sao hamita-tena",
+                "2": "Koa diovy fo,\nIalao ny lolom-po,\nIzay rehetra mety ho ratsy,\nDia reseo amin' ny soa,\nAoka tsy ho mpankahala,\nNa ho mpamaly faty,\nNa dia fahavalo aza,\nDia mivavaha ho azy."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "15",
+            "number": 182,
+            "title": "Mangataha dia omena ianareo",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Izay mangataka hoy Jesosy no omena,\nKoa mangataha de omena ianao,\n'Zay mitady no hahita,\nNy mandondona ho vohaina,\nKoa manantona Azy,\nAmin' ny finoana ianao.\nAmena.",
+                "chorus": "Raha manana finoana,\nToy ny voantsinapy aza,\nAfaka ny hahafindra hazo lehibe,\nIzay manana finoana ka tsy misalasala,\nHandrava tendrombohitry ny olana lehibe\nRaha manana mitoetra ao anatinareo ny Teniko\nAngatao izay tianareo fa ho azonareo\nHoy Jesosy",
+                "verse_2": "Andriamanitra tsy hitaredretra\nFa hanome rarin' ny olom-boafidiny\nIzay mitaraina Aminy andro sy alina\nHo avy faingan' Izy,\nMivavaha, mandram-pandresy\nAmen"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "16",
+            "number": 183,
+            "title": "Ny baiboly",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "1": "Genesisy, Eksodosy, Levitikosy,\nNomery\nDeoternomia, Josoa, Mpitsara, Rota\nSamoela, Mpanjaka, Tantatra,\nEzra, Nemia, Estera, Joba\nSalamo, Ohabola, Mpitoriteny\nTonon-kiran' i Solomona",
+                "2": ":;:Isaia, Jeremia, Fitomaniana, Ezekiela\nDaniela, Hosea, Joela\nAmosa, Obadia, Jona, Mika, Nahoma\nHabakoka, Zefania\nHagay, Zakaria, Malakia:;:",
+                "3": ":;:Matio, Marka, Lioka, Jaona\nAsan' ny Apostoly, Romana\nKorintiana, Korintiana\nGalatiana, Efesiana, Filipiana,\nKolosiana",
+                "4": "Tesaloniana, Tesaloniana\nTimoty, Timoty, Titosy\nFilemona, Hebreo, Jakoba\nPetera, Petera, Epistilin' i Jaona\nJoda, Fanambarana:;:",
+                "ending": "Tsarovy fa Tenin' Andriamanitra ny\n(baiboly)\nMazotoa mamaky sy mandinika\n(baiboly)\nRehefa handeha hivavaka mitondra\n(baiboly )\nAoka tsy ho soloana zavatra hafa ny\n(baiboly)\nKoa hajao, Dia zarao\nAlalino o !, Aza adino e !\nAnkatoavina, Aza lavina\nBAIBOLY !!!"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "17",
+            "number": 184,
+            "title": "Tsy hivadika Aminao",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Babon' ny fitiavanao ny foko,\nResy lahatry ny hatsaranao Anao ny saiko\nTsy ho sahiko intsony ny hisaraka Aminao\nIzaho JESOSY o! tena makamamy Anao",
+                "chorus": "Izaho tia Anao,\nNitia ahy taloha lanao,\nTafaray samy tia izaho sy lanao,\nNa dia omena ahy aza izao tontolo izao,\nIzaho JESOSY o! tsy hivadika Aminao",
+                "verse_2": "Raha mandinika ny niandohako,\nGaga aho nahoana no tianao,\nFa fiainana ambany toy ny fako,\nNo noraofinao ka namboarinao.",
+                "verse_3": "Izao no hetahetako ry Tompo,\nTehirizo hitoetra ao Aminao,\nKa raha avy ilay fotoana hodiako,\n'Za Jeso ! tsenao, ento ho any Aminao"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "18",
+            "number": 185,
+            "title": "Tsy maintsy ho lasa ny aizina",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Tsy resy akory ny manatrik' ady,\nSanatria tsy kivy raha toa mitomany,\nTsy hoe nariana fa zanaka tiana,\nSedraina sy tefena mba hamiratra",
+                "chorus": "Minoa fa tsy ho lasa ny aizina,\nManàna fanantenana na dia sarotra,\nSatria Jesosy Mahagaga,\nNo Sakaiza miady ho anao,\nIlay mitana ny tenifikasana.",
+                "verse_2": "Voaodidim-pahoriama fa tsy tery,\nVery hevitra fa tsy mamoy fo,\nNohenjehina, fa tsy nahafoy aho,\nNazera kanefa tsy nety rava.",
+                "verse_3": "Tafajoro aho noho ireo fiadiana,\nTeny sabatra, finoana apinga,\nNotafiazana hery nampitratra,\nTao amin' ny fiainam-bavaka."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "19",
+            "number": 186,
+            "title": "Mahereza mifalia",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": ":;:Mazotoa aza malaina,\nN' inona n' inona sedraina,\nOlona voatahy ianao\nKa aza manahy,\nNy asa sy fanompoana,\nAtaovy eny foana,\nJesosy tsy handao anao,\nFa namana:;:",
+                "chorus": "Mihirà, dia mivavaha\nMahereza, mitrakà\nNy Ray Izay mpanaohana,\nBanjinina am-pinoana,\nToa voa didina ady?\nHazony ny voady,\nAza kivy sanatria,\nMahereza, mifalia.",
+                "verse_2": ":;:Torohevitra ho anao,\nN' inona n' inona manjo,\nMiatreha foana aloha,\nFa aza mamoy fo,\nRaha mbola eto an-tany,\nNy sento eny ihany,\nFa hiova fifaliana io\nIndray androany:;:"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "20",
+            "number": 187,
+            "title": "Vitanao io amin' ny anaran' i Jesosy",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Raha tojo olana, ady mafy ianao e !\nDia izao no tadidio,\nNy akiviana sy famoiza-po,\nAlaviro sy fadio,\nNy finoana sy ny vavaka\nDia aza ariana fa fikotro\nFa amin' Anaran'i Jesosy\nMinoa fa vitanao io",
+                "chorus": "F' efa nitsangana marina tokoa,\nJesosy Tompontsika,\nTsy misy olana lehibe nohon' ny fahafatesana\nVelona Izy, mahery Izy\n« Izay tsy hain'ny olona atao\nMinoa fa vitany »",
+                "verse_2": "Rehefa sendra fahavalo lehibe,\nAza mijery ny heriny,\nFa tsarovy ilay adin' i Goliata sy Davida\nKa ny herin' Andriamanitra no,\nBanjino sy iankino\nF' amin' ny Anaran'i Jesosy\nMinoa fa resinao io",
+                "verse_3": "Mahereza sy mahatanja ianao e !\nAoka ianao hitomban-dahy,\nFa raha mbola an' i Jesosy ianao,\nMatokia k' aza manahy\n'Zay kely hery, aoka hihika hoe,\nMahery aho ! Mahery !\nF' amin' ny alalan' i Jesosy,\nManoatra ny mpandresy isika."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "21",
+            "number": 188,
+            "title": "Raha ny faniriako",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Raha ny faniriako Tompo,\nDia ny ho Anao hatrany,\nSatria anie ny tanjoko tsy eto,\nFa any an-danitra any,\nKa ny angatahiko anio,\nFikirako mafy aho tsy ho lavo,\nSarotra ny lalana,\nKa mila ny fihazonananao aho.",
+                "chorus": "Eo anilanao no mamiko,\nSatria ianao no fiainako,\nTsy misy mahatsara ahy,\nAfa-tsy eo Aminao mandrakizay.",
+                "verse_2": "Ny anto-pahavelomako,\nDia ny hanao ny asanao,\nMamokatra mba ho rehareha,\nSy ho voninahitrao,\nKa ny zavatra ilaiko,\nOmeo ahy ny herinao,\nVatsio aho hahombiazako,\nHahatanterahako ny irakao.",
+                "verse_3": "Raha hifarana ny diako,\nAmin'ny fotoana voatendrinao,\nHihiraka ampifaliana sy amin-karavoana aho,\nNanaa izay faran'ny azo atao,\nTamin'ny andro nomenanao,\nAzo antoka fa hitsena ahy,\nEo am-bavahady lanao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "22",
+            "number": 189,
+            "title": "Lehilahy miavaka",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Zavatra mahamenatra ny hafa,\nNy hoe lehilahy mivavaka,\nHeveriny ho fahadalana,\nNa voadona resim-piainana,\nIndraindray aza hiomehezana,\nFa hoe tara tsy maharaka,\nNefa safidiko ny hivavaka,\nMahonon-tena fa ho any an-danitra.",
+                "chorus": "Lehilahy miavaka,\nNy lehilahy tena mivavaka,\nMahery anaty ady sarotra,\nTsy mora kivy, fa manam-pinoana,\nTsy mahatsiaro faty antoka,\nFa manana an' i Jesosy ho namana.",
+                "verse_2": "Fomba fisainan' ny Jentilisa,\nTsy lehilahy raha tsy manao ditra,\nTsy ny ratsy no halain-tahaka,\nFa izay sitrak' Andriamanitra,\nToy ny rehetra alaim-panahy,\nNefa miady sy miaritra,\nTsy matahotra ny ho esoina,\nNy lehilahy tena mivavaka.",
+                "ending": "Voahombo niaraka amin' i Kristy,\nTeo amin' ny hazo fijaliana aho,\nTsy izaho intsony izao no velona,\nFa Kristy no velona ato anatiko."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "23",
+            "number": 190,
+            "title": "Tsy maintsy mandresy",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "chorus": "Tsy maintsy mandresy aho,\nNoholonanao,\nTsy maintsy tafita aho,\nRaha momba ahy Ianao,\nTsy maintsy voatahy aho,\nNoho ny fahasoavanao,\nTsy maintsy mahery aho,\nNoho ny fanahinao.",
+                "verse_1": "Aza variana mitoloko,\nJereo Jesosy ka mitraka,\nF' ao Aminy izay ilainao,\nKoa araraoty dieny izao, dieny izao.",
+                "verse_2": "Tsofy rano ny tenanao,\nMahaiza manonona teny ianao,\nMba ho vokatra tsara re,\nNo hojinjainao ampifaliamana. Eh.",
+                "verse_3": "Mihetseha ampinoana ianao,\nRai so sy iaino ny Tenifikasana,\nFa ho tonga sy ho tsapanao,\nIzay nolazain'ny Tompo aminao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "24",
+            "number": 191,
+            "title": "Mitsangana ry tanora",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": ":;:Mitsangana ianao ry tanora,\nMifohaza, hetseo ny herinao,\nKoa faingana, f' izao no fotoana,\nTsara indrindra, hamiratananao:;:",
+                "1": "Banjino ny ho avy, \nMilofosa tsara, \nMiasa, mazotoa, \nMba tsy ho ratsy fiarafara, \nHiezaka hatrany, \nHo liam - pandrosoana, \nKa hanana vina, \nNy hiakatra ambony.",
+                "verse_2": "Araraoty ny fahatanorana,\nHanaovanan-tsoa, fa aza simbana,\nHo modely, sy ohatra tsara,\nRy tanora ô! aoka ho fahazavana,\nAtaovy ho fanamby,\n« Tsy maintsy tafita »,\nMba ho voninahit' Ilay Tompontsika,\nHitondra fanevan' ny Filazantsara,\nSy ho fitahiana,\nHo an' i Madagasikara.",
+                "ending": "Omeo an' i Jesosy,\nNy fahatanorana,\nOmeo Azy ho ampiasainy,\nFa aza simbasimbana."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "25",
+            "number": 192,
+            "title": "Mandram-pihaona indray",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Hifarana hatreto aloha ny androany,\nTsy maintsy hisaraka isika,\nKa dia hifandao vetivety,\nHifanao mandram-pihaona,\nJesosy anie homba anao,\nAmin' ny lalana haleha,\nMandehana amin' ny fiadanana,\nMinoa, Izy tsy hamela irery.",
+                "chorus": "Koa mahereza e,\nMandram-pihaona,\nRaha sitrapon' ny Ray ambony,\nIsika mbola hihaona e!\nNy fitahian' ny Tompo,\nNy fahasoavany,\nNo hanaraka sy homba anao hatrany,\nKoa dia matokia.",
+                "verse_2": "Injany efa tsapako sahady,\nFa manina anareo ny foko,\nSatria tena iray isika,\nIray tampo ao amin' ny Tompo,\nToa satry hiarak' eto foana,\nAmin' ny fivoriana masina,\nEfa tsinjo, azo an-tsaina ilay fotoana,\nRehefa ny any an-danitra.",
+                "verse_3": "Tazony ny fifankatiavana,\nNy firaisana amin' i Jesosy,\nSamia mitandrina fitafiam-panahy,\nF' atomotra ny andro fampakaramana,\nAny no fitsaharana,\nTsy misy ady na fahoriana,\nAnilan' i JESOSY, ho tanteraka,\nKoa mahereza 'zany havako izany!"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "26",
+            "number": 193,
+            "title": "Tonga ny fahazavanao",
+            "subtitle": "(Hira faneva faha 60 taona JM)",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Mitsangana, mitsangana, mihazavà,\nMijoroa8, misehoa, aza menatra,\nFa tonga ny fahazavanao,\nAry ny voninahitra' i Jehovah,\nEfa miposaka aminao,\nEnimpolo taona nijoroana izay,\nJESOSY MAMONJY ilay fiangonanay,\nIndro mbola velona sy miorina,\nNoho ny fahasoavan' Andriamanitra.",
+                "verse_2": "Ady lala-tsarotra nodiavina,\nSedraina ireny ka aza atao hahaketraka,\nMandrosoa banjino ny ho avy,\nJehovah efa hanao zava-baovao,\nIo aloha ny fandresena,\nMiadia ny ady tsara' ny finoana,\nItafio ireo fiadian' Andriamanitra,\nJESOSY Ilay Lohan' ny fiangonana,\nNo Kapiteny Mpitari-tafika.",
+                "verse_3": "Tohizo ny dia aza mijanona,\nTsy dinganana vita no hitsarana,\nHaoreno izay efa rava,\nMiverena amin' ny fitiavana voalohany,\nKa mibebaha,\nFahamasinana, fifankatiavana,\nFahamarinana, fankatoavana,\nKatsaho ary tena tandrovy fatratra,\nHo avy ny fifohazam-panahy.",
+                "ending": "JESOSY MAMONJY no fiangonanay,\nNo rehefa anio rahatrizay,\nTsy amidy, tsy afoy na atokalo,\nFa lova sarobidy tsy manam-paharoa,\nIzahay vonon-kijoro ho saro-piaro,\nMba tsy hamindrana ilay itoeran-jiro,\nJesosy Tompo anie,\nNo homba anao hatrany am-parany,\nHaharitra mandram-pihaviny."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "27",
+            "number": 194,
+            "title": "Jehovah no fanilo sy famonjena ahy",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "1": "Jehovah no fanilo sy famonjena ahy,\nIza no hatahorako?\nIzy no manda mafy ho an' ny aiko,\nIza no hangovitako?",
+                "2": "Raha mihinana ny nofoko ireo fahavalo,\nIzy ihany no tafintohina ka lavo,\nNa dia ny antokony mitoby aza,\nTsy hatahotra ny foko,\nNa dia misy ady mihatra aza,\nDia hatoky ihany aho.",
+                "chorus": "Izao ihany no fantatro, Jehovah ô!\nIzao no hotadiaviko, dia ny hitoetra,\nAo an-tranonanao aho,\nAmin' ny andro rehetra hiainako,\nHahita ny fahasoavanao sy ny hatsaranao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "28",
+            "number": 195,
+            "title": "Endrey manao ahoana",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "1": "Endrey manao ahoana ny fitiavan' ny Ray (in-4),\nNantsoina hoe zanany isika (in-4),\nNatsoina (in-2), nantsoina isika,\nNantsoina, nantsoina hoe zanany isika,\nNantsoina hoe zanany isika (in-2)"
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "29",
+            "number": 196,
+            "title": "Raha mahantra",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Fahazavan' Aho kanefa tsy inoanao,\nLalan' Aho, kanefa tsy arahinao.",
+                "chorus": ":;:Raha mahantr' ianao,\nAoka tsy ho tsiniko:;:",
+                "verse_2": "Fahamarinan' Aho kanefa tsy raisinao,\nFiadanan' Aho kanefa tsy fantatrao.",
+                "verse_3": "Lehibenao Aho kanefa tsy ekenao,\nAndriamanitra Aho kanefa tsy ho tompoinao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "30",
+            "number": 197,
+            "title": "Aza matahotra",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Maizina indray ilay andronao,\nTsy hitanao intsony ny aleha,\nMahatsiaro irery indray ianao,\nDia manontany foana ianao,\nIza indray no hantenanina?\nFa izay tiana anie toa nandao.",
+                "1": "Henoy izao: Tsy irery ianao,\nFa misy Ray anie mihazona anao,\nAza manahy! Fa Izy no miahy,\nFa ny tanany anie mahavonjy anao.",
+                "chorus": "He! Aza matahotra,\nFa Izy anie tia anao,\nFa tsy avelany ho resy ianao,\nFa Jesosy anie no momba anao,\nDia mitrakà, jereo ny lanitra,\nFandresena anie ao aloha ao,\nDia izao, aza matahotra.",
+                "verse_2": "Mampanahy anao ve ny ho avy?\nNy lalana tsy fantatrao,\nMitebiteby foana ianao,\nTsy izay miseho rehetra izao,\nNo hamaritry ny ho avinao,\nFa ilay Tompo anie mbola ao,",
+                "2": "Tsarovy izao: TIANY IANAO,\nKa ny ampitsona anie,\nIzy ho eo ho anao,\nAza manahy, f' Izy no miahy,\nMandra-kizay anie\nno hitiavany anao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "31",
+            "number": 198,
+            "title": "Tompo ô",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "chorus": "Ny fiainako omeko Anao Tompo ô!\nNy foko atolotro ho Anao Tompo ô!\nIzay rehetra alehako ho Anao Tompo ô!\nNy fanantenako Aminao Tompo ô!",
+                "verse_1": "Omeko hotantananao sy hotarihinao,\nNy sambokeliko,\nAlavitra ny dia, tsy hita izay aleha,\nJehovah no faniloko!",
+                "verse_2": "Rehefa sahirana aho, dia tena tsapako,\nNy fitiavany ahy (Jesosy tia ahy)\nRaha diso lalana aho dia averiny indray,\nFaly aho miaraka Aminy."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "32",
+            "number": 199,
+            "title": "Ny lalan' i Jehovah",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "chorus": "Irina noho ny volamena ireny,\nAry mamy noho ny tantely.",
+                "verse_1": "Tsy misy tsiny ny lalan' i Jehovah,\nMamelombelona sy mahendry ny kely saina.",
+                "verse_2": "Mahitsy ny fandidian' i Jehovah,\nMahafaly ny fo sy mampahazava ny maso.",
+                "verse_3": "Madio ny fitsipik' i Jehovah,\nAry maharitra mandrakizay sy marina."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "33",
+            "number": 200,
+            "title": "Tena afaka aho",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Rendrika tamin'ny fotaky ny ota aho,\nRehaka, filàn-dratsy, ditra, hadalàna,\nTanana iray no nanavotra ahy,\nDia ny tanam-pitiavan' i Jesosy.",
+                "chorus_1": "Afaka aho, afaka aho,\nNahafahan' i Jesosy,\nBabony aho, babony aho,\nTena babony aho,\nNy ràny soa no nanadiovany ahy,\nHanara-dia Azy aho mandrakizay.",
+                "verse_2": "Amin' ny fotoana hialako ety,\nHo ao Jerosalema vaovao,\nHiara-mihira mafy hoe Haleloia,\nHaleloia, Haleloia, voavonjy aho.",
+                "chorus_2": "Fantatro, fantatro,\nFa tia ahy mihoatra Izy,\nMidana aho, tretika aho,\nManana antoka,\nTsy lany laniana,\nAfa-po ny fanahy,\nMamiko, mamiko Jesosy."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "34",
+            "number": 201,
+            "title": "Marary aminy koa",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Very hevitra, ka toa lasa ny sainao,\nMieritreritra hoe rahoviana vao hisy fifaliana,\nReraky ny enta-mavesatra,\nVesaran' olana ka reraka,\nMila tsy ho tanty intsony,\nKa te hamoy fo.",
+                "chorus": "Izay marary aminao,\nMarary amin' ny Tompo,\nTsapany ireo alahelonao,\nAdin-tsaina, ratram-ponao,\nMahereza ianao ary mivavaha,\nTsy hadinony ianao fa malalany,\nMarary Aminao, marary Aminy koa.",
+                "verse_2": "Ireo onjam-piainana, aza jerenao,\nHerisetra etsy sy eroa, loza marobe,\nKotsan-dranomaso ny tavanao,\nNoho ireo ady sy ratra mihatra aminao,\nMatokisa anefa,\nFa Jeso tsy hanadino anao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "35",
+            "number": 202,
+            "title": "Eo an-tanan' i Jesosy ny fiainako",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Takona amiko ny ampitsoko,\nMety hisy haizina, mety hazava koa,\nFa tsy hampanahy ahy izany,\nF' efa an-tananao Tompo ny fiainako.\nMety mbola ho sarotra ny lalana,\nMatoky foana aho!\nF' ianao tsy handao.",
+                "chorus": "Jesosy ô! Jesosy ô!\nNy ho aviko apetrako Aminao,\nJesosy ô!\nTsy hatahotra aho fa eo an-tananao.",
+                "verse_2": "Tompo ô, ny foko, atolotro Anao,\nTompo ô, ny fiainako rehetra hanjakao,\nTsy izay rehetra tiako, tsy izay no atao,\nFa ekeko avokoa rehefa sitraponao,\nMety mbola ho sarotra ny lalana,\nMatoky foana aho!\nF' ianao tsy handao."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        },
+        {
+            "id": "36",
+            "number": 203,
+            "title": "Hazony ny fampianarana",
+            "hasAudio": true,
+            "key": "",
+            "lyrics": {
+                "verse_1": "Andriamanitra Ray sy Jesosy Zanany,\nDia nanolotra fampianarana ho antsika,\nNatao ho arahina sy ankatoavina,\nAry ho ekena amin' ny fankasitrahana.",
+                "chorus": "Hazòny ny fampianarana efa azonao,\nRaha Jesosy tokoa no renao,\nKa tao Aminy no nampianarana anao,\nFikiro mafy k' aza hialana.",
+                "verse_2": "Ny fampianarana no hahazoana,\nMahalala ny sitrapon' Andriamanitra,\nHanalavirantsika ny fahotana,\nHananana toetra mahamendrika.",
+                "verse_3": "Ny fampianarana no mahatonga anao,\nHo voataiza tsara ka ho voatolotra,\nTanteraka, tsy ho an' iza na ho an' iza,\nFa ho an' i Jesosy irery ihany.",
+                "verse_4": "Ny fialàna amin' ny fampianarana,\nDia midika ho fialàna amin' Andriamanitra,\nSatria voasoratra fa tsy manana Ray,\n'Zay tsy mitoetra amin' ny fampianarana."
+            },
+            "updatedAt": "2025-09-05T00:00:00Z"
+        }
+    ]
+}
